@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RealtimeDatabase</string>
+
+    <array name="Fruits">
+
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Pine</item>
+        <item>Mango</item>
+        <item>Lemon</item>
+
+    </array>
+
+
+</resources>
